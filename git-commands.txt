@@ -1,0 +1,4 @@
+git init- to initialize new local repository
+git status- to know the status of the changes in the repository
+git add- to add any file in the repository
+git commit- to commit any changes
